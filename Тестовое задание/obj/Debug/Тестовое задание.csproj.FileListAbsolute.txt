@@ -1,0 +1,12 @@
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.exe.config
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\bin\Debug\Тестовое задание.exe.config
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\obj\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\bin\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\bin\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache

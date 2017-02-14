@@ -1,0 +1,18 @@
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Тестовое задание\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\Тестовое задание.exe
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\Тестовое задание.pdb
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Наталия\Documents\Учеба\курс по android\Test_assignment_on_Android\UnitTest\obj\Debug\UnitTest.pdb
