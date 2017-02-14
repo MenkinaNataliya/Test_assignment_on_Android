@@ -32,21 +32,12 @@ namespace Тестовое_задание
         {
             if (p == q) return false;
             if (!ContainsItem(p) || !ContainsItem(q)) return false;
-            var k = 0;
             foreach (var item in legion)
             {
-                if (k == 2) return true;
                 if (item[0] == p && !item.Contains(q))
-                {
                     item.Add(q);
-                    k++;
-                    continue;
-                }
                 if (item[0] == q && !item.Contains(p))
-                {
                     item.Add(p);
-                    k++;
-                }
             }
 
             return false;
