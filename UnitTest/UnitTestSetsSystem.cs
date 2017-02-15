@@ -5,7 +5,7 @@ using Тестовое_задание;
 namespace UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestSetsSystem
     {
 
         SetsSystem setsSystem;
@@ -73,4 +73,5 @@ namespace UnitTest
 
 
     }
+
 }

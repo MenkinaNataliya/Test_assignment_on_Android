@@ -6,45 +6,34 @@ using System.Threading.Tasks;
 
 namespace Тестовое_задание
 {
-
-    
-    public class SetsSystem
+    public class SetsSystemWithDictionary
     {
-        private readonly List<List<int>> legion;
+        private readonly Dictionary<int,List<int>> legion;
 
-        public SetsSystem(params int[] values)
+        public SetsSystemWithDictionary(params int[] values)
         {
-            legion = new List<List<int>>();
+            legion =new Dictionary<int, List<int>>();
             foreach (var item in values)
                 Add(item);
         }
 
         private bool ContainsItem(int value)
         {
-            return legion.Any(item => item.Contains(value));
+            return legion.ContainsKey(value );
         }
 
         public void Add(int value)
         {
             if (!ContainsItem(value))
-                legion.Add(new List<int> { value });
+                legion[value] = new List<int>();
         }
 
         public bool Union(int p, int q)
         {
             if (p == q) return false;
             if (!ContainsItem(p) || !ContainsItem(q)) return false;
-            foreach (var item in legion)
-            {
-                if (item[0] == p && !item.Contains(q))
-                {
-                    item.Add(q);
-                    continue;
-                }
-                if (item[0] == q && !item.Contains(p))
-                    item.Add(p);
-            }
-
+            legion[p].Add(q);
+            legion[q].Add(p);
             return true;
         }
 
@@ -52,8 +41,7 @@ namespace Тестовое_задание
         {
             if (p == q) return true;
             if (!ContainsItem(p) || !ContainsItem(q)) return false;
-
-            return legion.Any(item => item[0] == p && item.Contains(q));
+            return legion[p].Contains(q);
         }
     }
 }
