@@ -56,8 +56,7 @@ namespace UnitTest
 
         [TestMethod]
         public void Default()
-        {
-
+        { 
             var sets = new SetsSystem(0,1,2,3,4,5,6,7);
             sets.Union(1, 4);
             sets.Union(4, 5);
@@ -66,13 +65,9 @@ namespace UnitTest
             sets.Union(6, 3);
             sets.Union(3, 7);
 
-
             Assert.IsTrue(sets.Union(2, 5));
             Assert.IsFalse(sets.Find(0, 1));
-
-
-
-
+            Assert.IsFalse(sets.Find(1,5));///тест по моему вопросу
 
         }
 

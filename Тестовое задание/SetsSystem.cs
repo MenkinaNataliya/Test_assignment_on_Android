@@ -35,12 +35,15 @@ namespace Тестовое_задание
             foreach (var item in legion)
             {
                 if (item[0] == p && !item.Contains(q))
+                {
                     item.Add(q);
+                    continue;
+                }
                 if (item[0] == q && !item.Contains(p))
                     item.Add(p);
             }
 
-            return false;
+            return true;
         }
 
         public bool Find(int p, int q)
